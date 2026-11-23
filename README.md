@@ -10,3 +10,9 @@ python3 verify.py
 - Tamper test - change max_hosts in LICENSE, verify shows INVALID
 - Machine-ID test - copy LICENSE to another machine, verify shows NOT FOR THIS MACHINE
 - Expiry test - change expiry to past date, verify shows EXPIRED
+
+## Output
+![Output](Output.jpeg)
+
+## Tamper Test
+![Tamper Test](License%20fake%20or%20real.jpeg)
